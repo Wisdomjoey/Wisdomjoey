@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/16TK8uR8kH4FFpdxIIw9HLV41n9gN4qtO/view?usp=drivesdk" width="100"/>
+  <img src="https://i.ibb.co/DVNc5Nw/Code-typing-amico.png" width="100"/>
   </div>
 
 <h1>
