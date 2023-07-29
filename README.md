@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://mega.nz/file/jqA23aRZ#koErGYjLGxewrw9eb3LwhQ7IwLmVjTB-KBj0bmp6WP4" width="100"/>
+  <img src="https://drive.google.com/file/d/16TK8uR8kH4FFpdxIIw9HLV41n9gN4qtO/view?usp=drivesdk" width="100"/>
   </div>
 
 <h1>
@@ -14,7 +14,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Web Developer and a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+I am a Full Stack Web Developer and a Mobile Developer
 
 - 💪 Have a knack of solving coding problems.
 
