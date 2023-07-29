@@ -8,7 +8,7 @@
     </h1>
 
 <div align="center">
-  <img src="https://mega.nz/file/eqRg3T5Y#TzlzKwVr44ffWJ1k637zDwCR8bV-PVTqW54R0pUAzsA" width="600"/>
+  <img src="https://i.ibb.co/4pyx5FW/programming-evolution.jpg" width="600"/>
   </div>
 
 ---
