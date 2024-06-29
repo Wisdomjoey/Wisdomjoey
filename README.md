@@ -61,7 +61,7 @@
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Wisdomjoey&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Wisdomjoey&layout=compact&langs_count=10&hide_border=true&hide=other" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Wisdomjoey&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" alt="Wakatime Stats" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wisdomjoey&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" alt="Wakatime Stats" />
           </picture>
         </a>
       </td>
@@ -101,13 +101,13 @@
 <hr>
 
 <div align="center">
-  <a href="https://wakatime.com/@Wisdomjoey"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a>
+  <a href="https://wakatime.com/@wisdomjoey"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a>
   <a href="https://visitcount.itsvg.in/analytics/Wisdomjoey"><img height="20" src="https://visitcount.itsvg.in/api?id=Wisdomjoey&icon=0&color=0" alt=""/></a>
   <a href="https://github.com/Platane/snk">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Wisdomjoey/Wisdomjoey/blob/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Wisdomjoey/Wisdomjoey/blob/output/github-snake.svg" />
-      <img alt="github-snake" src="https://github.com/Wisdomjoey/Wisdomjoey/blob/output/github-snake-dark.svg" style="width: 100%; max-width: 400px; margin: 0 auto;" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Wisdomjoey/wisdomjoey/blob/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Wisdomjoey/wisdomjoey/blob/output/github-snake.svg" />
+      <img alt="github-snake" src="https://github.com/Wisdomjoey/wisdomjoey/blob/output/github-snake-dark.svg" style="width: 100%; max-width: 400px; margin: 0 auto;" />
     </picture>
   </a>
 </div>
