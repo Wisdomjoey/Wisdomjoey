@@ -50,17 +50,17 @@
     <td width="40%"  align="center">
         <a href="https://github.com/Wisdomjoey">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisdomjoey&layout=compact&hide_border=true&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisdomjoey&layout=compact&langs_count=10&hide_border=true" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisdomjoey&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wisdomjoey&layout=compact&hide_border=true&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wisdomjoey&layout=compact&langs_count=10&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisdomjoey&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
           </picture>
         </a>
     </td>
     <td width="60%"  align="center">
         <a href="https://github.com/Wisdomjoey">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Wisdomjoey&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Wisdomjoey&layout=compact&langs_count=10&hide_border=true&hide=other" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=wisdomjoey&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=wisdomjoey&layout=compact&langs_count=10&hide_border=true&hide=other" />
             <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wisdomjoey&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" alt="Wakatime Stats" />
           </picture>
         </a>
@@ -90,7 +90,7 @@
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,sass,less,tailwind,bootstrap,svg,figma" />
       <br />
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,pycharm,replit" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,dart,flutter,python,java,pycharm,replit" />
       <br />
       <img src="https://skillicons.dev/icons?i=react,nest,vue,htmx,electron,npm,nodejs,express,django,flask,graphql,next" />
       <br />
