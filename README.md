@@ -88,12 +88,12 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,less,tailwind,bootstrap,htmx,svg,figma" />
+      <img src="https://skillicons.dev/icons?i=html,css,sass,less,tailwind,bootstrap,htmx,svg,figma,pnpm,npm" />
       <br />
-      <img src="https://skillicons.dev/icons?i=git,javascript,typescript,dart,flutter,python,java,pycharm,bash,replit" />
+      <img src="https://skillicons.dev/icons?i=git,javascript,typescript,dart,flutter,python,java,pycharm,bash,replit,androidstudio" />
       <br />
-      <img src="https://skillicons.dev/icons?i=react,nest,vue,electron,npm,nodejs,express,django,flask,graphql,next" />
+      <img src="https://skillicons.dev/icons?i=react,redux,nest,vue,electron,nodejs,express,django,flask,graphql,next" />
       <br />
-      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,vercel,netlify,aws,docker,github,stackoverflow" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,vercel,netlify,aws,docker,github,stackoverflow,prisma,redis" />
   </a>
 </div>
